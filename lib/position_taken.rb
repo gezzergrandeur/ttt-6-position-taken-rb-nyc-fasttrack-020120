@@ -1,4 +1,6 @@
+board = [" ", " ," " , ]
+
 def position_taken?(board, index)
- if board[index_1] == " "
+ if board[index_number] == " "
   end
 end
